@@ -1,7 +1,7 @@
 # Series Name
 ## Video 00 Title
 Description: Script for
-Type: one of seven types
+Type: Editorial
 
 ### Scene name  
 
@@ -12,11 +12,11 @@ Type: one of seven types
 | *Sound*  Foley from recorded audio | *FX* |
 | Data animation direction   | Shot ***Type*** |
 > *Narration* Reference specific documents [^1], 
-- narrative line 1 
-- narrative 2
--  narrative 3
-- narrative 4
-- narrative 5
+> - narrative line 1 
+> - narrative 2
+> -  narrative 3
+> - narrative 4
+> - narrative 5
 
 [^1](http://avesark.com)   
 
