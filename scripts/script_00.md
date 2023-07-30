@@ -1,6 +1,7 @@
 # Series Name
 ## Video 00 Title
-Description: Script for
+Description: Script for ...
+
 Type: Editorial
 
 ### Scene name  
@@ -8,17 +9,16 @@ Type: Editorial
 | **Direction**      | **Visual** | 
 | :----------------        |    :---------------:   |
 | Description: Sky and lots of words that expand responsively might need to specify size of image.   | ![storyboard one](storyboard_1200x720_aaAA.jpg "v01-b01_avesark-icon-board FPO")  |
-| *Action*  Fast moving blank enters, |  Shot ***Type*** |   
-| *Sound*  Foley from recorded audio | *FX* |
-| Data animation direction   | Shot ***Type*** |
-> *Narration* Reference specific documents [^1], 
+| ***Action:***  Blank enters fast, slow, quietly, loudly... |  Shot ***Type*** |   
+| ***Sound:***  recording description | *FX* |
+| ***Animation: direction, data type   | Shot ***Type*** |
+> **Narration** Reference specific documents [^1](http://avesark.com)   , 
 > - narrative line 1 
 > - narrative 2
-> -  narrative 3
+> - narrative 3
 > - narrative 4
 > - narrative 5
 
-[^1](http://avesark.com)   
 
 1. First item
 1. Second item
@@ -29,7 +29,7 @@ Type: Editorial
 5. List item
 - unordered list only needs hyphen don't use asterik even though it works
 
-** Fenced Code Blocks are best practice**
+** Fenced Code Blocks best practice**
 *** Specify with syntax highlighting with 3 backticks and specify language
 ```json
 {
@@ -39,7 +39,6 @@ Type: Editorial
 }
 ```
 ***Some other useful markdown syntax***
-Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
 ### Heading with brackets and hash for a custom ID to modify with CSS  {#custom-id}
 
@@ -96,3 +95,4 @@ You can display a pipe (|) character in a table by using its HTML character code
 - Degree (°) — &#176;
 - Pi (π) — &#960;
 
+Here's a simple footnote,[^1] and here's a longer one.[^bignote](link)
