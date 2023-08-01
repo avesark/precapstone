@@ -110,13 +110,13 @@ ___
 
 | ![spacer](600px_space.png "") | ![spacer](1200px_space.png "") |
 | :----------------        |    :---------------:   |
-| Scene: Mallards seem common, expected, adored. We see less and less of them and even common species are facing threats.   | ![storyboard seven](video_02_boards/v02_board_07_scene-03_climax-2.jpg "v02-b06 Mallards everywhere" )  |
+| Scene: Mallards a personal favorite | ![storyboard seven](video_02_boards/v02_board_07_scene-03_climax-2.jpg "v02-b07 Mallards everywhere") |
 | Action: Mallards in various habitats | *Shots* Single, FS |   
 | Sound: tbd | *Audio* Adjust volume for POV fx |
 | Animation: tbd  | *Motivation* emotion |
 | Data: tbd chart | *Type* tbd |
 
-> Narration: What happens when breeding slows for species of Least Concern? [7](http://)
+> Narration: Mallards seem common, expected, adored. We see less, even common species are facing threats. What happens when breeding slows for species of Least Concern? [7](http://)
 > - p15-17 CT state of birds 2022 “The number of breeding pairs of Mallards has fallen in Connecticut. Breeding Mallards in New England are relatively stable, although data supplied by the Connecticut Department of Energy and Environmental Protection reveal that the three-year rolling average of nesting pairs in Connecticut fell by 34 percent from 2000 through 2020—from an average of 17,823 to 11,676.” Paul Schmidt  
 > - If an amazingly adaptable species like Mallards, a dabbling duck are not thriving in a human centric world, how do we protect the tiny populations left of the delicate and rare? - **Many habitats** 
 > The data visualization finalized will determine specifics for narration.
