@@ -7,7 +7,7 @@ ___
 #### ACT: OPEN –> <–
 | ![spacer](600px_space.png "") | ![spacer](1200px_space.png "") |
 | :----------------        |    :---------------:   |
-| Scene: Habitat shoreline, egrets   | ![storyboard one](v02_board_01_scene-01_open-1.jpg "v02-b01 shoreline and egrets")  |
+| Scene: Habitat shoreline, egrets   | ![storyboard one](video_02_boards/v02_board_01_scene-01_open-1.jpg "v02-b01 shoreline and egrets")  |
 | Action: Species categories | *Shots* Multiple, WS |   
 | Sound: recorded audio birds in habitat | *Audio* Adjust volume for POV fx |
 | Animation: tbd  | *Motivation* necessity vs beauty |
@@ -20,7 +20,7 @@ ___
 
 | ![spacer](600px_space.png "") | ![spacer](1200px_space.png "") |
 | :----------------        |    :---------------:   |
-| Scene: Egrets in marsh    | ![storyboard two](v02_board_02_scene-01_open-2.jpg "v02-b02 Egrets salt marsh")  |
+| Scene: Egrets in marsh    | ![storyboard two](video_02_boards/v02_board_02_scene-01_open-2.jpg "v02-b02 Egrets salt marsh")  |
 | Action: Habitat categories over salt marsh footage | *Shots* singles-etchings, FS |   
 | Sound: tbd | *Audio* Adjust volume for POV fx |
 | Animation: Categories of birds typography and icons | *Motivation* academic, informative  |
@@ -39,7 +39,7 @@ Sequence over footage from previous scene
 | **Title animation sequence**      | 
 | :----------------  |
 | Description ... | 
-|![Title 02 animation sequence ](V02_title_boards_animation_Habitat-Threat-Thread.jpg "v02 Title Habitat Threat Thread")  |
+|![Title 02 animation sequence ](video_02_boards/V02_title_boards_animation_Habitat-Threat-Thread.jpg "v02 Title Habitat Threat Thread")  |
 | Action: Panning habitat |  Video title **“types on”** over footage, swipe left exit |   
 | Sound: Continue with natural audio | *Audio* Add Branding-Beat for series |
 | Animation: Type on title name  | Hold 5 seconds  *Swipe off* |
@@ -52,7 +52,7 @@ ___
 #### Act: RISE + + +
 | ![spacer](600px_space.png "") | ![spacer](1200px_space.png "") |
 | :----------------        |    :---------------:   |
-| Scene: Shrubland footage  | ![storyboard three](v02_board_03_scene-02_rise-1.jpg "v02-b03 Shrubland birds  ")  |
+| Scene: Shrubland footage  | ![storyboard three](video_02_boards/v02_board_03_scene-02_rise-1.jpg "v02-b03 Shrubland birds  ")  |
 | Action: Species categories | *Shots* Single, FS |   
 | Sound: Species specific | *Audio* Adjust volume for POV fx |
 | Animation: tbd  | *Motivation* empathy |
@@ -67,7 +67,7 @@ ___
 
 | ![spacer](600px_space.png "") | ![spacer](1200px_space.png "") |
 | :----------------        |    :---------------:   |
-| Scene: footage grassland birds   | ![storyboard four](v02_board_04_scene-02_rise-2.jpg "v02-b04  ")  |
+| Scene: footage grassland birds   | ![storyboard four](video_02_boards/v02_board_04_scene-02_rise-2.jpg "v02-b04  ")  |
 | Action: Species categories | *Shots* WS, ES |   
 | Sound: tbd | *Audio* Adjust volume for POV fx |
 | Animation: tbd  | *Motivation* empathy |
@@ -81,7 +81,7 @@ ___
 
 | ![spacer](600px_space.png "") | ![spacer](1200px_space.png "") |
 | :----------------        |    :---------------:   |
-| Scene: ...   | ![storyboard five](v02_board_05_scene-02_rise-3.jpg "v02 b05 ")  |
+| Scene: ...   | ![storyboard five](video_02_boards/v02_board_05_scene-02_rise-3.jpg "v02 b05 ")  |
 | Action: Species categories | *Shots* Single, FS |   
 | Sound: tbd | *Audio* Adjust volume for POV fx |
 | Animation: tbd  | *Motivation* emotion |
@@ -96,7 +96,7 @@ ___
 #### Act: CLIMAX –> <–
 | ![spacer](600px_space.png "") | ![spacer](1200px_space.png "") |
 | :----------------        |    :---------------:   |
-| Scene: Parking lots, buildings, no trees, rooftops   | ![storyboard six](v02_board_06_scene-03_climax-1.jpg "v02-b06 ")  |
+| Scene: Parking lots, buildings, no trees, rooftops   | ![storyboard six](video_02_boards/v02_board_06_scene-03_climax-1.jpg "v02-b06 ")  |
 | Action: Data animation | *Shots* Single, FS |   
 | Sound: silence or power tools | *Audio* Adjust volume for POV fx |
 | Animation: tbd  | *Motivation* emotion |
@@ -110,7 +110,7 @@ ___
 
 | ![spacer](600px_space.png "") | ![spacer](1200px_space.png "") |
 | :----------------        |    :---------------:   |
-| Scene: Mallards seem common, expected, adored. We see less and less of them and even common species are facing threats.   | ![storyboard seven](v02_board_07_scene-03_climax-2.jpg "v02-b06 Mallards everywhere" )  |
+| Scene: Mallards seem common, expected, adored. We see less and less of them and even common species are facing threats.   | ![storyboard seven](video_02_boards/v02_board_07_scene-03_climax-2.jpg "v02-b06 Mallards everywhere" )  |
 | Action: Mallards in various habitats | *Shots* Single, FS |   
 | Sound: tbd | *Audio* Adjust volume for POV fx |
 | Animation: tbd  | *Motivation* emotion |
@@ -127,7 +127,7 @@ ___
 #### Act: RESOLUTION + + +
 | ![spacer](600px_space.png "") | ![spacer](1200px_space.png "") |
 | :----------------        |    :---------------:   |
-| Scene: Examining Specific Threats - Habitat Destruction  | ![storyboard eight](v02_board_08_scene-04_resolution-1.jpg "v02-b07  ")  |
+| Scene: Examining Specific Threats - Habitat Destruction  | ![storyboard eight](video_02_boards/v02_board_08_scene-04_resolution-1.jpg "v02-b07  ")  |
 | Action: Species categories | *Shots* Single, FS |   
 | Sound: tbd | *Audio* Adjust volume for POV fx |
 | Animation: tbd  | *Motivation* emotion |
@@ -144,7 +144,7 @@ ___
 
 | ![spacer](600px_space.png "") | ![spacer](1200px_space.png "") |
 | :----------------        |    :---------------:   |
-| Scene: Mallard pair scoping nesting spot   | ![storyboard nine](v02_board_09_scene-04_resoluton-2.jpg "v02-b08  ")  |
+| Scene: Mallard pair scoping nesting spot   | ![storyboard nine](video_02_boards/v02_board_09_scene-04_resoluton-2.jpg "v02-b08  ")  |
 | Action: Species categories | *Shots* Single, FS |   
 | Sound: tbd | *Audio* Adjust volume for POV fx |
 | Animation: tbd  | *Motivation* emotion |
@@ -158,7 +158,7 @@ ___
 
 | ![spacer](600px_space.png "") | ![spacer](1200px_space.png "") |
 | :----------------        |    :---------------:   |
-| Scene: Woodland species   | ![storyboard ten](v02_board_10_scene-04_resolution-3.jpg "v02-b09 ")  |
+| Scene: Woodland species   | ![storyboard ten](video_02_boards/v02_board_10_scene-04_resolution-3.jpg "v02-b09 ")  |
 | Action: Yellow-breasted Chat -Endangered, | *Shots* Single, FS |   
 | Sound: tbd | *Audio* Adjust volume for POV fx |
 | Animation: Etching and data points  | *Motivation* emotion |
@@ -174,7 +174,7 @@ ___
 #### Act: END –> <–
 | ![spacer](600px_space.png "") | ![spacer](1200px_space.png "") |
 | :----------------        |    :---------------:   |
-| Scene: ...  | ![storyboard eleven](v02_board_11_scene-05_end-1.jpg "v02-b10 ")  |
+| Scene: ...  | ![storyboard eleven](video_02_boards/v02_board_11_scene-05_end-1.jpg "v02-b10 ")  |
 | Action: Species categories | *Shots* Single, FS |   
 | Sound: tbd | *Audio* Adjust volume for POV fx |
 | Animation: tbd  | *Motivation* emotion |
@@ -187,7 +187,7 @@ ___
 
 | ![spacer](600px_space.png "") | ![spacer](1200px_space.png "") |
 | :----------------        |    :---------------:   |
-| Scene: Community action across multiple jurisdictions  | ![storyboard twelve](v02_board_12_scene-05_end-2.jpg "v02-b08 ")  |
+| Scene: Community action across multiple jurisdictions  | ![storyboard twelve](video_02_boards/v02_board_12_scene-05_end-2.jpg "v02-b08 ")  |
 | Action: Species categories | *Shots* Single, FS |   
 | Sound: tbd | *Audio* Adjust volume for POV fx |
 | Animation: tbd  | *Motivation* urgency |
@@ -203,7 +203,7 @@ sequence over footage from previous scene
 | :----------------  |
 | The scene from before zooms in for closeup, low contrast suited for animation drop | 
 | **Credits sequence 3 movements** | 
-|![Credits 02 animation sequence ](V02_credits_boards_animation_Habitat-Threat-Thread.jpg "v02-Credits Habitat Threat Thread")  |
+|![Credits 02 animation sequence ](video_02_boards/V02_credits_boards_animation_Habitat-Threat-Thread.jpg "v02-Credits Habitat Threat Thread")  |
 | Action: Wetlands panning |  Video title **“types on”** over footage, swipe left exit |   
 | Sound: Continue with natural audio | *Add Branding-Beat for series* |
 | Animation: Above the Line credits  | Hold 5 seconds  **Rolling Order** References|
