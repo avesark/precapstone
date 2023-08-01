@@ -58,7 +58,7 @@ ___
 | Animation: tbd  | *Motivation* empathy |
 | Data:  | *Type* tbd |
 
-> Narration: Audubon priority species focus on near threatened species [3](https://ct.audubon.org/priority-bird-species)
+> Narration: Shrubland birds in danger [3](https://portal.ct.gov/DEEP/Wildlife/Habitat/Shrubland-Bird-Monitoring)
 > - Describe the meaning of the priority species list, 
 > - show and illuminate specific near threatened species and the specific habitat - **Shrubland birds** 
 > The data visualization finalized will determine specifics for narration.
@@ -150,7 +150,7 @@ ___
 | Animation: tbd  | *Motivation* emotion |
 | Data: tbd chart | *Type* tbd |
 
-> Narration: Audubon priority species [9](http://)
+> Narration:  [9](http://)
 > - ... habitat specific
 > - ... habitat specific
 ___
@@ -164,9 +164,9 @@ ___
 | Animation: Etching and data points  | *Motivation* emotion |
 | Data: Species specific data chart | *Type* tbd |
 
-> Narration: Audubon priority species [10](http://)
+> Narration: Audubon priority species [10](https://ct.audubon.org/priority-bird-species)
 > - Endangered Woodland species in Connecticut like the Yellow-Breasted Chat
-> - ... habitat specific
+> - ... habitat specific data details
 ___
 
 
@@ -174,15 +174,15 @@ ___
 #### Act: END –> <–
 | ![spacer](600px_space.png "") | ![spacer](1200px_space.png "") |
 | :----------------        |    :---------------:   |
-| Scene: ...  | ![storyboard eleven](video_02_boards/v02_board_11_scene-05_end-1.jpg "v02-b10 ")  |
-| Action: Species categories | *Shots* Single, FS |   
+| Scene: Coastal Species  | ![storyboard eleven](video_02_boards/v02_board_11_scene-05_end-1.jpg "v02-b10 ")  |
+| Action: Least Tern | *Shots* Single, FS |   
 | Sound: tbd | *Audio* Adjust volume for POV fx |
 | Animation: tbd  | *Motivation* emotion |
 | Data: tbd chart | *Type* tbd |
 
 > Narration: Audubon priority species [11](http://)
-> - ... habitat specific
-> - ... habitat specific
+> - ... Endangered Coastal species Least Tern
+> - ... habitat specific data details
 ___
 
 | ![spacer](600px_space.png "") | ![spacer](1200px_space.png "") |
@@ -215,11 +215,11 @@ ___
 *Final includes bottom frame Chyron logo play with video timeline*
 
 #### Items to complete
-- [ ] Citations complete in script
+- [x] Citations complete in script
 - [ ] Citations updated in proposal
 - [ ] Data specifics from research
 - [ ] Specify footage sources
-- [ ] add to github
+- [x] add to github
 
 ___
 
@@ -247,6 +247,9 @@ Montz, J. (2021, December 7). With nearly one-third of birds gone from North Ame
 
 
 Pennisi, E. (2019, September 19). Three billion North American birds have vanished since 1970, surveys show | Science | AAAS. Science.org. Retrieved July 19, 2023, from https://www.science.org/content/article/three-billion-north-american-birds-have-vanished-1970-surveys-show
+
+
+Connecticut Department of Energy & Environmental Protection (2019, April 29). Shrubland Bird Monitoring. CT.gov DEEP. Retrieved June 2, 2023, from https://portal.ct.gov/DEEP/Wildlife/Habitat/Shrubland-Bird-Monitoring
 ___
 
 *Type: Beat monster/editorial*
