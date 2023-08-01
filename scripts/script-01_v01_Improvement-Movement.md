@@ -36,7 +36,7 @@ ___
 
 ___
 
-#### Act: TITLE ***Improvement Movement*** 
+#### TITLE: ***Improvement Movement*** 
 sequence over footage from previous scene  
 | **Title animation sequence**      | 
 | :----------------  |
@@ -234,7 +234,7 @@ ___
 
 ___
 
-#### Act: CREDITS 
+#### CREDITS: 
 sequence over footage from previous scene  
 | **Animation**      | 
 | :----------------  |
