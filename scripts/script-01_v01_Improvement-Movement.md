@@ -45,7 +45,7 @@ Type: Rebirth/editorial
 | :----------------  |
 | The scene from before zooms out for open space | 
 | **Title sequence 3 movements** | 
-|![Title 01 animation sequence ](V01_title_animation_Improvement-Movement.jpg "v01 Title Improvement-Movement")  |
+|![Title 01 animation sequence ](V01_title_boards_animation_Improvement-Movement.jpg "v01 Title Improvement-Movement")  |
 | Action: Panning to marshland with nest platforms and Conservation efforts |  Video title **“types on”** over footage, swipe left exit |   
 | Sound: Continue with natural audio | *Add Branding-Beat for series* |
 | Animation: Type on title name  | Hold 5 seconds  *Swipe off* |
@@ -239,7 +239,7 @@ Kelly.""
 | :----------------  |
 | The scene from before zooms in for closeup, low contrast suited for animation drop | 
 | **Credits sequence 3 movements** | 
-|![Credits 01 animation sequence ](V01_credit_boards_animation_Improvement-Movement.jpg "v01-Credits Improvement-Movement")  |
+|![Credits 01 animation sequence ](V01_credits_boards_animation_Improvement-Movement.jpg "v01-Credits Improvement-Movement")  |
 | Action: Flying picks up with another bird in flight |  Video title **“types on”** over footage, swipe left exit |   
 | Sound: Continue with natural audio | *Add Branding-Beat for series* |
 | Animation: Above the Line credits  | Hold 5 seconds  **Rolling Order** References|
