@@ -3,8 +3,8 @@
 **Description:** The community efforts that have shown success with restoring bird populations and breeding encouragement in the State of Connecticut.
 ___
 
-#### ACT: OPEN –> <–
-| ![spacer](600px_space.png "") | ![spacer](1200px_space.png "") |
+#### I. OPEN –> <–
+| ![spacer6](6x_space.png "") | ![spacer12](12x_space.png "") |
 | :----------------        |    :---------------:   |
 | Scene: Sky raptor in flight | ![storyboard one](video_01_boards/v01_board_01_scene-01_open-1.jpg "v01-b01 Bird flying free")  |
 | Action: Fast moving bird in flight | *Shots* Single | Establishing |   
@@ -17,9 +17,7 @@ ___
 > - The population losses enter data here ]
 
 ___
-___
-
-| ![spacer](600px_space.png "") | ![spacer](1200px_space.png "") |
+| ![spacer6](6x_space.png "") | ![spacer12](12x_space.png "") |
 | :----------------        |    :---------------:   |
 | Scene: Hawk early spring, sky match on action change species  | ![storyboard two](video_01_boards/v01_board_02_scene-01_open-2.jpg "v01-b02 Hawk flying early spring")  |
 | Action: Flying picks up with another bird in flight | *Shots* Establishing |   
@@ -50,8 +48,8 @@ sequence over footage from previous scene
 
 ___
 
-#### Act: RISE + + +
-| ![spacer](600px_space.png "") | ![spacer](1200px_space.png "") |
+#### II. RISE + + +
+| ![spacer6](6x_space.png "") | ![spacer12](12x_space.png "") |
 | :----------------        |    :---------------:   |
 | Scene: Osprey nests | ![storyboard three](video_01_boards/v01_board_03_scene-02_rise-1.jpg "v01-b03 Osprey Nest ")  |
 | Action: Osprey nests in protected marsh | *Shots* Single FS, low angle|   
@@ -68,7 +66,7 @@ coastal development. “Lots of government agencies, conservation groups and ind
 seems stable in Connecticut. It’s just an amazing success story.”
 ___
 
-| ![spacer](600px_space.png "") | ![spacer](1200px_space.png "") |
+| ![spacer6](6x_space.png "") | ![spacer12](12x_space.png "") |
 | :----------------        |    :---------------:   |
 | Scene: Osprey nest in Walmart parking lot  | ![storyboard four](video_01_boards/v01_board_04_scene-02_rise-2.jpg "v01-b04 Osprey nest in Walmart parking lot")  |
 | Action: Busy nest |  *Shots* Two, FS,low angle |   
@@ -84,7 +82,7 @@ ___
 > - of the burgeoning Osprey population.”
 ___
 
-| ![spacer](600px_space.png "") | ![spacer](1200px_space.png "") |
+| ![spacer6](6x_space.png "") | ![spacer12](12x_space.png "") |
 | :----------------        |    :---------------:   |
 | Scene: Map of Osprey watch sights | ![storyboard five](video_01_boards/v01_board_05_scene-02_rise-3.jpg "v01 b05 Osprey nation map pins CT")  |
 | Action: Osprey watchful away from nest| *Shot* Single |   
@@ -98,8 +96,8 @@ ___
 > - and the health of our environment.”
 ___
 
-#### Act: CLIMAX –> <–
-| ![spacer](600px_space.png "") | ![spacer](1200px_space.png "") |
+#### III. CLIMAX –> <–
+| ![spacer6](6x_space.png "") | ![spacer12](12x_space.png "") |
 | :----------------        |    :---------------:   |
 | Scene: Bald Eagle | ![storyboard six](video_01_boards/v01_board_06_scene-03_climax-1.jpg "v01-b06 Bald Eagle etching")  |
 | Action: Bald eagle in tree | *Shots* Single,CU, Low Angle |   
@@ -113,7 +111,7 @@ ___
 
 ___ 
 
-| ![spacer](600px_space.png "") | ![spacer](1200px_space.png "") |
+| ![spacer6](6x_space.png "") | ![spacer12](12x_space.png "") |
 | :----------------        |    :---------------:   |
 | Scene: American Oystercatcher | ![storyboard seven](video_01_boards/v01_board_07_scene-03_climax-2.jpg "v01-b06 habitat for American Oystercatcher")  |
 | Action: Quiet, meditative bird in tree RF and original footage Milford Point |  *Shots* WS, OTS |   
@@ -136,8 +134,8 @@ ___
 
 ___
 
-#### Act: RESOLUTION + + +
-| ![spacer](600px_space.png "") | ![spacer](1200px_space.png "") |
+#### IV. RESOLUTION + + +
+| ![spacer6](6x_space.png "") | ![spacer12](12x_space.png "") |
 | :----------------        |    :---------------:   |
 | Scene: American Oystercatcher   | ![storyboard eight](video_01_boards/v01_board_08_scene-04_resolution-1.jpg "v01-b07 Oystercatcher etching with data ")  |
 | Action: Slow beach footage, American Oystercatcher etching CC| *Shots* Single, CU, low angle |   
@@ -156,7 +154,7 @@ ___
 
 ___
 
-| ![spacer](600px_space.png "") | ![spacer](1200px_space.png "") |
+| ![spacer6](6x_space.png "") | ![spacer12](12x_space.png "") |
 | :----------------        |    :---------------:   |
 | Scene: Stratford Meadows Community Success   | ![storyboard nine](video_01_boards/v01_board_09_scene-04_resoluton-2.jpg "v01-b08 Stratford footage")  |
 | Action: Establishing shot |  *Shots* Mix of species, WS |   
@@ -183,7 +181,7 @@ Kelly."
 
 ___
 
-| ![spacer](600px_space.png "") | ![spacer](1200px_space.png "") |
+| ![spacer6](6x_space.png "") | ![spacer12](12x_space.png "") |
 | :----------------        |    :---------------:   |
 | Scene: Connecticut legislation protected species  | ![storyboard ten](video_01_boards/v01_board_10_scene-04_resolution-3.jpg "v01-b09 protected species documents")  |
 | Action: documents layering in on top of Osprey flying footage |  *Shots* Single, FS  |   
@@ -205,8 +203,8 @@ ___
 
 ___
 
-#### Act: END –> <–
-| ![spacer](600px_space.png "") | ![spacer](1200px_space.png "") |
+#### V. END –> <–
+| ![spacer6](6x_space.png "") | ![spacer12](12x_space.png "") |
 | :----------------        |    :---------------:   |
 | Scene: Greenways maps | ![storyboard eleven](video_01_boards/v01_board_11_scene-05_end-1.jpg "v01-b10 greenways maps")  |
 | Action: Montage of maps |  *Shots* Multiples, Montage |   

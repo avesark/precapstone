@@ -4,8 +4,8 @@
 
 ___
 
-#### ACT: OPEN –> <–
-| ![spacer](600px_space.png "") | ![spacer](1200px_space.png "") |
+#### I. OPEN –> <–
+| ![spacer6](6x_space.png "") | ![spacer12](12x_space.png "") |
 | :----------------        |    :---------------:   |
 | Scene: Habitat shoreline, egrets   | ![storyboard one](video_02_boards/v02_board_01_scene-01_open-1.jpg "v02-b01 shoreline and egrets")  |
 | Action: Species categories | *Shots* Multiple, WS |   
@@ -18,7 +18,7 @@ ___
 > - The importance of compromising how much land is designated for natural habitats for other species to survive and thrive is urgent. Awareness that there is even a problem seems less than urgent in the general public and media. There are many dedicated people who are aware and trying, but the task is as enormous as climate change. Have we gone too far, can we reverse course?
 ___
 
-| ![spacer](600px_space.png "") | ![spacer](1200px_space.png "") |
+| ![spacer6](6x_space.png "") | ![spacer12](12x_space.png "") |
 | :----------------        |    :---------------:   |
 | Scene: Egrets in marsh    | ![storyboard two](video_02_boards/v02_board_02_scene-01_open-2.jpg "v02-b02 Egrets salt marsh")  |
 | Action: Habitat categories over salt marsh footage | *Shots* singles-etchings, FS |   
@@ -49,8 +49,8 @@ Sequence over footage from previous scene
 ___
 
 
-#### Act: RISE + + +
-| ![spacer](600px_space.png "") | ![spacer](1200px_space.png "") |
+#### II. RISE + + +
+| ![spacer6](6x_space.png "") | ![spacer12](12x_space.png "") |
 | :----------------        |    :---------------:   |
 | Scene: Shrubland footage  | ![storyboard three](video_02_boards/v02_board_03_scene-02_rise-1.jpg "v02-b03 Shrubland birds  ")  |
 | Action: Species categories | *Shots* Single, FS |   
@@ -65,7 +65,7 @@ ___
 
 ___
 
-| ![spacer](600px_space.png "") | ![spacer](1200px_space.png "") |
+| ![spacer6](6x_space.png "") | ![spacer12](12x_space.png "") |
 | :----------------        |    :---------------:   |
 | Scene: footage grassland birds   | ![storyboard four](video_02_boards/v02_board_04_scene-02_rise-2.jpg "v02-b04  ")  |
 | Action: Species categories | *Shots* WS, ES |   
@@ -79,7 +79,7 @@ ___
 > The data visualization finalized will determine specifics for narration.
 ___
 
-| ![spacer](600px_space.png "") | ![spacer](1200px_space.png "") |
+| ![spacer6](6x_space.png "") | ![spacer12](12x_space.png "") |
 | :----------------        |    :---------------:   |
 | Scene: ...   | ![storyboard five](video_02_boards/v02_board_05_scene-02_rise-3.jpg "v02 b05 ")  |
 | Action: Species categories | *Shots* Single, FS |   
@@ -93,8 +93,8 @@ ___
 ___
 
 
-#### Act: CLIMAX –> <–
-| ![spacer](600px_space.png "") | ![spacer](1200px_space.png "") |
+#### III. CLIMAX –> <–
+| ![spacer6](6x_space.png "") | ![spacer12](12x_space.png "") |
 | :----------------        |    :---------------:   |
 | Scene: Parking lots, buildings, no trees, rooftops   | ![storyboard six](video_02_boards/v02_board_06_scene-03_climax-1.jpg "v02-b06 ")  |
 | Action: Data animation | *Shots* Single, FS |   
@@ -124,8 +124,8 @@ ___
  
 
 
-#### Act: RESOLUTION + + +
-| ![spacer](600px_space.png "") | ![spacer](1200px_space.png "") |
+#### IV. RESOLUTION + + +
+| ![spacer6](6x_space.png "") | ![spacer12](12x_space.png "") |
 | :----------------        |    :---------------:   |
 | Scene: Examining Specific Threats - Habitat Destruction  | ![storyboard eight](video_02_boards/v02_board_08_scene-04_resolution-1.jpg "v02-b07  ")  |
 | Action: Species categories | *Shots* Single, FS |   
@@ -142,7 +142,7 @@ ___
 ___
 
 
-| ![spacer](600px_space.png "") | ![spacer](1200px_space.png "") |
+| ![spacer6](6x_space.png "") | ![spacer12](12x_space.png "") |
 | :----------------        |    :---------------:   |
 | Scene: Mallard pair scoping nesting spot   | ![storyboard nine](video_02_boards/v02_board_09_scene-04_resoluton-2.jpg "v02-b08  ")  |
 | Action: Species categories | *Shots* Single, FS |   
@@ -156,7 +156,7 @@ ___
 ___
 
 
-| ![spacer](600px_space.png "") | ![spacer](1200px_space.png "") |
+| ![spacer6](6x_space.png "") | ![spacer12](12x_space.png "") |
 | :----------------        |    :---------------:   |
 | Scene: Woodland species   | ![storyboard ten](video_02_boards/v02_board_10_scene-04_resolution-3.jpg "v02-b09 ")  |
 | Action: Yellow-breasted Chat -Endangered, | *Shots* Single, FS |   
@@ -171,8 +171,8 @@ ___
 
 
 
-#### Act: END –> <–
-| ![spacer](600px_space.png "") | ![spacer](1200px_space.png "") |
+#### V. END –> <–
+| ![spacer6](6x_space.png "") | ![spacer12](12x_space.png "") |
 | :----------------        |    :---------------:   |
 | Scene: Coastal Species  | ![storyboard eleven](video_02_boards/v02_board_11_scene-05_end-1.jpg "v02-b10 ")  |
 | Action: Least Tern | *Shots* Single, FS |   
@@ -185,7 +185,7 @@ ___
 > - ... habitat specific data details
 ___
 
-| ![spacer](600px_space.png "") | ![spacer](1200px_space.png "") |
+| ![spacer6](6x_space.png "") | ![spacer12](12x_space.png "") |
 | :----------------        |    :---------------:   |
 | Scene: Community action across multiple jurisdictions  | ![storyboard twelve](video_02_boards/v02_board_12_scene-05_end-2.jpg "v02-b08 ")  |
 | Action: Species categories | *Shots* Single, FS |   
