@@ -4,7 +4,7 @@
 
 ___
 
-#### ACT: OPEN –> <–
+#### I. OPEN –> <–
 | ![spacer](600px_space.png "") | ![spacer](1200px_space.png "") |
 | :----------------        |    :---------------:   |
 | Scene: tbd   | ![storyboard one](v03_board_01_scene-01_open-1.jpg "v03-b01 category data image")  |
@@ -47,7 +47,7 @@ sequence over footage from previous scene
 ___
 
 
-#### Act: RISE + + +
+#### II. RISE + + +
 | ![spacer](600px_space.png "") | ![spacer](1200px_space.png "") |
 | :----------------        |    :---------------:   |
 | Scene:   | ![storyboard three](v03_board_03_scene-02_rise-1.jpg "v03-b03   ")  |
@@ -88,7 +88,7 @@ ___
 ___
 
 
-#### Act: CLIMAX –> <–
+#### III. CLIMAX –> <–
 | ![spacer](600px_space.png "") | ![spacer](1200px_space.png "") |
 | :----------------        |    :---------------:   |
 | Scene: ...   | ![storyboard six](v03_board_06_scene-03_climax-1.jpg "v03-b06 ")  |
@@ -118,7 +118,7 @@ ___
  
 
 
-#### Act: RESOLUTION + + +
+#### IV. RESOLUTION + + +
 | ![spacer](600px_space.png "") | ![spacer](1200px_space.png "") |
 | :----------------        |    :---------------:   |
 | Scene: ...   | ![storyboard eight](v03_board_08_scene-04_resolution-1.jpg "v03-b07  ")  |
@@ -162,7 +162,7 @@ ___
 
 
 
-#### Act: END –> <–
+#### V. END –> <–
 | ![spacer](600px_space.png "") | ![spacer](1200px_space.png "") |
 | :----------------        |    :---------------:   |
 | Scene: ...  | ![storyboard eleven](v03_board_11_scene-05_end-1.jpg "v03-b10 ")  |
